@@ -3,7 +3,7 @@
     "dev": "nodemon src/index.js",
     "start": "node src/index.js",
     "test": "node --test",
-    "test:1": "node  test/1.test.js",
+    "test:1": "node test/1.test.js",
     "test:2": "node test/2.test.js",
     "test:3": "node test/3.test.js",
     "test:4": "node test/4.test.js",
