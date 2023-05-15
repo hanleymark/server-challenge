@@ -38,7 +38,7 @@ server.get("/colour", (req, res) => {
           <meta charset="utf-8">
           <title>Get Colour</title>
           <link rel="stylesheet" href="/styles.css">
-          <style>'body{background-color:#${hex || "fff"}}'</style>
+          <style>body {background-color: #${hex};}</style>
         </head>
         <body>
           <h1>Get Colour</h1>
